@@ -92,17 +92,30 @@ export const PROJECTS_DATA: Project[] = [
     metrics: 'Integrated real-time slot synchronization & patient management'
   },
   {
-    id: 'ai-symptom-crm',
-    title: 'AI Symptom Checker & AI CRM',
-    category: 'AI / Machine Learning & Web App',
-    shortDesc: 'AI-driven medical symptom diagnosis paired with an intelligent automated business CRM system.',
-    fullDesc: 'Developed a dual-purpose AI ecosystem featuring an ML-powered symptom analysis engine providing preliminary health insights, alongside an automated enterprise CRM tool for customer data tracking, workflow automation, and predictive lead analytics.',
+    id: 'ai-symptom-checker',
+    title: 'AI Symptom Checker',
+    category: 'AI / Machine Learning',
+    shortDesc: 'ML-powered medical symptom diagnosis engine providing preliminary health insights and analysis.',
+    fullDesc: 'Developed an intelligent AI healthcare assistant that processes patient symptom inputs using Machine Learning classification algorithms to offer instant preliminary medical insights and triage recommendations.',
     image: 'https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80',
-    tags: ['Python', 'Machine Learning', 'React.js', 'Node.js', 'MongoDB', 'Data Science'],
-    liveUrl: 'https://ai-symptom-crm.vercel.app',
-    githubUrl: 'https://github.com/deepansr007/ai-symptom-checker-crm',
+    tags: ['Python', 'Machine Learning', 'React.js', 'Node.js', 'Data Science'],
+    liveUrl: 'https://ai-symptom-checker.vercel.app',
+    githubUrl: 'https://github.com/deepansr007/ai-symptom-checker',
     featured: true,
-    metrics: '92% accurate symptom insights & automated CRM workflow'
+    metrics: '92% accurate symptom insights & real-time diagnosis triage'
+  },
+  {
+    id: 'ai-crm-system',
+    title: 'AI CRM System',
+    category: 'Enterprise AI & Web App',
+    shortDesc: 'Intelligent automated enterprise CRM platform for customer data tracking & predictive lead analytics.',
+    fullDesc: 'Engineered a modern AI-driven Customer Relationship Management portal featuring automated lead scoring, customer interaction history, workflow automation, and predictive business analytics dashboard.',
+    image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80',
+    tags: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Python', 'Machine Learning'],
+    liveUrl: 'https://ai-crm-system.vercel.app',
+    githubUrl: 'https://github.com/deepansr007/ai-crm-system',
+    featured: true,
+    metrics: 'Automated lead analytics & workflow optimization'
   }
 ];
 
