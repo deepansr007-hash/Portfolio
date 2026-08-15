@@ -86,7 +86,7 @@ export const PROJECTS_DATA: Project[] = [
     fullDesc: 'Designed and implemented a comprehensive doctor appointment booking portal using MongoDB, Express.js, React, and Node.js. Features end-to-end patient authentication, real-time doctor availability calendar, instant booking confirmation, and interactive admin dashboards.',
     image: 'https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80',
     tags: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Tailwind CSS', 'JWT Auth'],
-    liveUrl: 'https://book-a-doctor-demo.vercel.app',
+    liveUrl: 'https://book-a-doctor-one-peach.vercel.app/',
     githubUrl: 'https://github.com/deepansr007/book-a-doctor',
     featured: true,
     metrics: 'Integrated real-time slot synchronization & patient management'
@@ -103,45 +103,6 @@ export const PROJECTS_DATA: Project[] = [
     githubUrl: 'https://github.com/deepansr007/ai-symptom-checker-crm',
     featured: true,
     metrics: '92% accurate symptom insights & automated CRM workflow'
-  },
-  {
-    id: 'shopez-ecommerce',
-    title: 'ShopEZ E-Commerce Platform',
-    category: 'Full-Stack E-Commerce',
-    shortDesc: 'High-conversion online shopping engine with dynamic filtering, cart state, and order tracking.',
-    fullDesc: 'Engineered a modern, responsive e-commerce web application featuring real-time product search, interactive category filters, smooth cart animations, Stripe payment integration, and a comprehensive seller admin portal.',
-    image: 'https://images.unsplash.com/photo-1557821552-17105176677c?auto=format&fit=crop&w=1200&q=80',
-    tags: ['React.js', 'Redux Toolkit', 'Node.js', 'Express.js', 'MongoDB', 'Stripe API'],
-    liveUrl: 'https://shopez-mern.vercel.app',
-    githubUrl: 'https://github.com/deepansr007/shopez-ecommerce',
-    featured: true,
-    metrics: 'Sub-second load times & responsive mobile checkout'
-  },
-  {
-    id: 'house-rent-app',
-    title: 'Smart House Rental Platform',
-    category: 'Full-Stack Real Estate App',
-    shortDesc: 'Interactive property rental marketplace with geo-location search, booking requests & tenant management.',
-    fullDesc: 'Created a feature-packed house rental application enabling tenants to explore verified rental property listings, schedule visits, filter by price range and amenities, and contact landlords directly.',
-    image: 'https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=1200&q=80',
-    tags: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Leaflet Maps', 'Tailwind CSS'],
-    liveUrl: 'https://houserent-app.vercel.app',
-    githubUrl: 'https://github.com/deepansr007/house-rent-app',
-    featured: false,
-    metrics: 'Instant map search & tenant-landlord messaging'
-  },
-  {
-    id: 'online-complaint-system',
-    title: 'Online Complaint Registration',
-    category: 'Enterprise Web Application',
-    shortDesc: 'Automated civic and institutional grievance redressal system with priority ticket tracking.',
-    fullDesc: 'Built an organized grievance resolution web portal where users can register complaints, attach media proof, track status in real-time, and receive updates as administrators resolve tickets.',
-    image: 'https://images.unsplash.com/photo-1450133064473-71024230f91b?auto=format&fit=crop&w=1200&q=80',
-    tags: ['React.js', 'Express.js', 'MySQL', 'Node.js', 'Tailwind CSS'],
-    liveUrl: 'https://complaint-portal.vercel.app',
-    githubUrl: 'https://github.com/deepansr007/online-complaint-system',
-    featured: false,
-    metrics: 'Streamlined ticket lifecycle & status management'
   }
 ];
 
