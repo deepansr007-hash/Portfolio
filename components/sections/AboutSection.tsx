@@ -17,8 +17,6 @@ Education: ${PERSONAL_INFO.education.degree} - ${PERSONAL_INFO.education.institu
 Key Projects:
 - Book A Doctor (MERN Full Stack Appointment System)
 - AI Symptom Checker & AI CRM System (ML & Enterprise Web App)
-- ShopEZ E-Commerce Platform (MERN Stack)
-- Smart House Rental Application
 
 Certifications:
 - MongoDB Node.js Developer Path (SmartBridge)
