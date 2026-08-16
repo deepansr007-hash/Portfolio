@@ -112,7 +112,7 @@ export const PROJECTS_DATA: Project[] = [
     fullDesc: 'Engineered a modern AI-driven Customer Relationship Management portal featuring automated lead scoring, customer interaction history, workflow automation, and predictive business analytics dashboard.',
     image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80',
     tags: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Python', 'Machine Learning'],
-    liveUrl: 'https://ai-crm-system.vercel.app',
+    liveUrl: 'https://ai-crm-vprl.vercel.app/',
     githubUrl: 'https://github.com/deepansr007/ai-crm-system',
     featured: true,
     metrics: 'Automated lead analytics & workflow optimization'
