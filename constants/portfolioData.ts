@@ -54,7 +54,7 @@ export const PERSONAL_INFO = {
   email: 'deepansr007@gmail.com',
   phone: '+91 7373265454',
   linkedin: 'https://www.linkedin.com/in/deepan-s-r-0a5579346',
-  github: 'https://github.com/deepansr007',
+  github: 'https://github.com/deepansr007-hash-hash',
   availability: 'Available for Full-time Roles & High-Impact Projects',
   bio: `Computer Science Engineering student with deep expertise in Java, Python, the MERN Stack, and Data Structures. Passionate about engineering AI-driven web systems, full-stack doctor appointment portals, CRM automation tools, and modern high-performance interfaces. Continuously innovating at the intersection of web development, data science, and cloud technology.`,
   education: {
@@ -87,7 +87,7 @@ export const PROJECTS_DATA: Project[] = [
     image: 'https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80',
     tags: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Tailwind CSS', 'JWT Auth'],
     liveUrl: 'https://book-a-doctor-one-peach.vercel.app/',
-    githubUrl: 'https://github.com/deepansr007/book-a-doctor',
+    githubUrl: 'https://github.com/deepansr007-hash-hash/book-a-doctor',
     featured: true,
     metrics: 'Integrated real-time slot synchronization & patient management'
   },
@@ -100,7 +100,7 @@ export const PROJECTS_DATA: Project[] = [
     image: 'https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80',
     tags: ['Python', 'Machine Learning', 'React.js', 'Node.js', 'Data Science'],
     liveUrl: 'https://ai-symptom-checker.vercel.app',
-    githubUrl: 'https://github.com/deepansr007/ai-symptom-checker',
+    githubUrl: 'https://github.com/deepansr007-hash-hash/ai-symptom-checker',
     featured: true,
     metrics: '92% accurate symptom insights & real-time diagnosis triage'
   },
@@ -113,7 +113,7 @@ export const PROJECTS_DATA: Project[] = [
     image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80',
     tags: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Python', 'Machine Learning'],
     liveUrl: 'https://ai-crm-vprl.vercel.app/',
-    githubUrl: 'https://github.com/deepansr007/ai-crm-system',
+    githubUrl: 'https://github.com/deepansr007-hash-hash-hash-hash-hash/ai-crm-system',
     featured: true,
     metrics: 'Automated lead analytics & workflow optimization'
   }

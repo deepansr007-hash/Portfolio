@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     'Mahendra Engineering College',
     'Tamil Nadu Web Developer',
   ],
-  authors: [{ name: 'Deepan S R', url: 'https://github.com/deepansr007' }],
+  authors: [{ name: 'Deepan S R', url: 'https://github.com/deepansr007-hash' }],
   openGraph: {
     title: 'DEEPAN S R | AI Full Stack Developer',
     description:
